@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=harshadajagtap&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=HarshadaJagtap23&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 
 <!-- Typing SVG Header -->
 <a href="https://git.io/typing-svg">
@@ -39,7 +39,7 @@ harshada = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,postgresql,git,github&theme=dark" />
 
 </div>
 
@@ -48,9 +48,10 @@ harshada = {
 | Skill | Level | Notes |
 |---|---|---|
 | HTML & CSS | 🟢 Comfortable | Built a few pages, learning layouts |
-| JavaScript | 🟡 Learning | Basics done, still exploring DOM |
-| Python | 🟡 Learning | Covered in class, writing small scripts |
+| JavaScript | 🟡 Beginner | Basics done, still exploring DOM |
+| Python | 🟡 Beginner | Covered in class, writing small scripts |
 | C | 🟡 Beginner | Lab practicals, understanding logic |
+| PSQL | 🟡 Learning | Basics are clear, querying & tables |
 | Excel | 🟢 Comfortable | Pivot tables, charts, dashboards |
 | Git & GitHub | 🟡 Learning | Getting the hang of version control |
 
@@ -103,12 +104,12 @@ harshada = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshadajagtap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshadajagtap&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=HarshadaJagtap23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshadaJagtap23&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshadajagtap&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshadaJagtap23&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -131,9 +132,9 @@ harshada = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshada%20Jagtap-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshadajagtap)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshada%20Jagtap-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshada-jagtap237/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-harshadajagtap%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshadajagtap@gmail.com)
+[![Email](https://img.shields.io/badge/Email-harshada23jagtap%40gmial.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshada23jagtap@gmial.com)
 
 </div>
 
